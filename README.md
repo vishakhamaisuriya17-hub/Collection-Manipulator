@@ -168,6 +168,10 @@ Science
 English
 ```
 
+## Exit Option
+
+The exit option is used to terminate the program.
+
 ---
 
 ## Learning Outcomes
