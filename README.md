@@ -92,13 +92,13 @@ git clone https://github.com/vishakhamaisuriya17-hub/Collection-Manipulator.git
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd Student-Data-Organizer
+cd PR_3
 ```
 
 ### 3. Run the Python Program
 
 ```bash
-python student_data_organizer.py
+python Collection_Manipulator.py
 ```
 
 ---
